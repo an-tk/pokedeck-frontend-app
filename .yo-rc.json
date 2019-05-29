@@ -1,0 +1,9 @@
+{
+  "generator-agonb": {
+    "repository_url": "git@github.com:an-tk/pokedeck-frontend-app.git",
+    "project_destination_path": "pokedeck-frontend-app",
+    "application_name": "pokedeckFrontEnd",
+    "project_technology": "frontend-deployment",
+    "api_url": "http://api.api"
+  }
+}
